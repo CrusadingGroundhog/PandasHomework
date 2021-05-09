@@ -22,7 +22,7 @@ For this homework assignment, you have three main tasks:
 
 ## Instructions
 
-**File:** [Whale Analysis Starter Code](Starter_Code/whale_analysis.ipynb)
+**File:** [Whale Analysis Starter Code](PandasHomework/Starter_Code_whale_analysis.ipynb)
 
 
 ### Prepare the Data
